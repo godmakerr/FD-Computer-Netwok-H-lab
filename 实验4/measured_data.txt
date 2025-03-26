@@ -1,0 +1,1001 @@
+以下为测试时得到的详细数据
+
+**测试1、2**
+
+传输文件大小：10MB，上传,延迟0ms
+
+可靠算法为GBN，拥塞控制为基于丢包时
+
+丢包率0% 
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 9.58 seconds
+Effective throughput: 1095003.63 bytes/second
+Total data sent (including retransmissions): 11021234 bytes
+Flow utilization rate: 0.9514
+
+3%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 161.60 seconds
+Effective throughput: 64886.72 bytes/second
+Total data sent (including retransmissions): 34638164 bytes
+Flow utilization rate: 0.3027
+
+5%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 153.09 seconds
+Effective throughput: 68494.58 bytes/second
+Total data sent (including retransmissions): 30707740 bytes
+Flow utilization rate: 0.3415
+
+8%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 160.80 seconds
+Effective throughput: 65208.05 bytes/second
+Total data sent (including retransmissions): 28049598 bytes
+Flow utilization rate: 0.3738
+
+10%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 162.40 seconds
+Effective throughput: 64566.18 bytes/second
+Total data sent (including retransmissions): 27196200 bytes
+Flow utilization rate: 0.3856
+
+13%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 172.21 seconds
+Effective throughput: 60888.92 bytes/second
+Total data sent (including retransmissions): 26491808 bytes
+Flow utilization rate: 0.3958
+
+15%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 180.16 seconds
+Effective throughput: 58203.18 bytes/second
+Total data sent (including retransmissions): 25911414 bytes
+Flow utilization rate: 0.4047
+
+18%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 201.46 seconds
+Effective throughput: 52048.17 bytes/second
+Total data sent (including retransmissions): 25747820 bytes
+Flow utilization rate: 0.4072
+
+20%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 209.32 seconds
+Effective throughput: 50094.34 bytes/second
+Total data sent (including retransmissions): 25647788 bytes
+Flow utilization rate: 0.4088
+
+23%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 233.55 seconds
+Effective throughput: 44897.11 bytes/second
+Total data sent (including retransmissions): 25860356 bytes
+Flow utilization rate: 0.4055
+
+25%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 243.73 seconds
+Effective throughput: 43022.68 bytes/second
+Total data sent (including retransmissions): 25924960 bytes
+Flow utilization rate: 0.4045
+
+可靠算法为SR，拥塞控制为基于丢包时
+
+0%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 42.80 seconds
+Effective throughput: 245014.71 bytes/second
+Total data sent (including retransmissions): 16551128 bytes
+Flow utilization rate: 0.6335
+
+3%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 56.29 seconds
+Effective throughput: 186295.67 bytes/second
+Total data sent (including retransmissions): 14477548 bytes
+Flow utilization rate: 0.7243
+
+5%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 78.29 seconds
+Effective throughput: 133935.07 bytes/second
+Total data sent (including retransmissions): 13928414 bytes
+Flow utilization rate: 0.7528
+
+8%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 174.95 seconds
+Effective throughput: 59935.92 bytes/second
+Total data sent (including retransmissions): 13576218 bytes
+Flow utilization rate: 0.7724
+
+10%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 266.24 seconds
+Effective throughput: 39384.19 bytes/second
+Total data sent (including retransmissions): 12629040 bytes
+Flow utilization rate: 0.8303
+
+13%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 2455.83 seconds
+Effective throughput: 4269.74 bytes/second
+Total data sent (including retransmissions): 12279970 bytes
+Flow utilization rate: 0.8539
+
+15%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 3133.35 seconds
+Effective throughput: 3346.50 bytes/second
+Total data sent (including retransmissions): 12499832 bytes
+Flow utilization rate: 0.8389
+
+**测试3、4**
+
+可靠算法为SR，拥塞控制为基于丢包时
+
+0%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 42.80 seconds
+Effective throughput: 245014.71 bytes/second
+Total data sent (including retransmissions): 16551128 bytes
+Flow utilization rate: 0.6335
+
+3%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 56.29 seconds
+Effective throughput: 186295.67 bytes/second
+Total data sent (including retransmissions): 14477548 bytes
+Flow utilization rate: 0.7243
+
+5%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 78.29 seconds
+Effective throughput: 133935.07 bytes/second
+Total data sent (including retransmissions): 13928414 bytes
+Flow utilization rate: 0.7528
+
+8%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 174.95 seconds
+Effective throughput: 59935.92 bytes/second
+Total data sent (including retransmissions): 13576218 bytes
+Flow utilization rate: 0.7724
+
+10%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 266.24 seconds
+Effective throughput: 39384.19 bytes/second
+Total data sent (including retransmissions): 12629040 bytes
+Flow utilization rate: 0.8303
+
+13%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 2455.83 seconds
+Effective throughput: 4269.74 bytes/second
+Total data sent (including retransmissions): 12279970 bytes
+Flow utilization rate: 0.8539
+
+15%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 3133.35 seconds
+Effective throughput: 3346.50 bytes/second
+Total data sent (including retransmissions): 12499832 bytes
+Flow utilization rate: 0.8389
+
+SR delay upload 10MB
+
+loss 0%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 125.76 seconds
+Effective throughput: 83380.06 bytes/second
+Total data sent (including retransmissions): 10680500 bytes
+Flow utilization rate: 0.9818
+
+3%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 125.97 seconds
+Effective throughput: 83242.15 bytes/second
+Total data sent (including retransmissions): 11012898 bytes
+Flow utilization rate: 0.9521
+
+5%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 126.47 seconds
+Effective throughput: 82913.09 bytes/second
+Total data sent (including retransmissions): 11218172 bytes
+Flow utilization rate: 0.9347
+
+8%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 128.48 seconds
+Effective throughput: 81613.83 bytes/second
+Total data sent (including retransmissions): 11597460 bytes
+Flow utilization rate: 0.9041
+
+10%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 144.59 seconds
+Effective throughput: 72520.31 bytes/second
+Total data sent (including retransmissions): 11846498 bytes
+Flow utilization rate: 0.8851
+
+13%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 213.30 seconds
+Effective throughput: 49159.49 bytes/second
+Total data sent (including retransmissions): 12234122 bytes
+Flow utilization rate: 0.8571
+
+15%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 500.66 seconds
+Effective throughput: 20943.96 bytes/second
+Total data sent (including retransmissions): 12487328 bytes
+Flow utilization rate: 0.8397
+
+18%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 627.88 seconds
+Effective throughput: 16700.23 bytes/second
+Total data sent (including retransmissions): 13189636 bytes
+Flow utilization rate: 0.7950
+
+20%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 644.05 seconds
+Effective throughput: 16280.89 bytes/second
+Total data sent (including retransmissions): 13336558 bytes
+Flow utilization rate: 0.7862
+
+23%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 757.43 seconds
+Effective throughput: 13843.78 bytes/second
+Total data sent (including retransmissions): 13830466 bytes
+Flow utilization rate: 0.7582
+
+25%
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 781.73 seconds
+Effective throughput: 13413.45 bytes/second
+Total data sent (including retransmissions): 14200376 bytes
+Flow utilization rate: 0.7384
+
+**测试5、6**
+
+可靠算法为SR，拥塞控制为基于丢包时 upload 10MB 丢包0%
+
+延迟0ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 47.68 seconds
+Effective throughput: 219928.42 bytes/second
+Total data sent (including retransmissions): 15657092 bytes
+Flow utilization rate: 0.6697
+
+
+
+100ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 45.01 seconds
+Effective throughput: 232986.72 bytes/second
+Total data sent (including retransmissions): 15542472 bytes
+Flow utilization rate: 0.6747
+
+
+
+200ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 40.89 seconds
+Effective throughput: 256469.04 bytes/second
+Total data sent (including retransmissions): 15308022 bytes
+Flow utilization rate: 0.6850
+
+300ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 43.97 seconds
+Effective throughput: 238471.38 bytes/second
+Total data sent (including retransmissions): 14961036 bytes
+Flow utilization rate: 0.7009
+
+400ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 46.34 seconds
+Effective throughput: 226295.74 bytes/second
+Total data sent (including retransmissions): 12870784 bytes
+Flow utilization rate: 0.8147
+
+500ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 97.70 seconds
+Effective throughput: 107320.71 bytes/second
+Total data sent (including retransmissions): 12574856 bytes
+Flow utilization rate: 0.8339
+
+600ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 110.07 seconds
+Effective throughput: 95268.58 bytes/second
+Total data sent (including retransmissions): 12830146 bytes
+Flow utilization rate: 0.8173
+
+700ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 120.76 seconds
+Effective throughput: 86834.73 bytes/second
+Total data sent (including retransmissions): 12745744 bytes
+Flow utilization rate: 0.8227
+
+800ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 140.55 seconds
+Effective throughput: 74604.49 bytes/second
+Total data sent (including retransmissions): 12957270 bytes
+Flow utilization rate: 0.8093
+
+900ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 153.74 seconds
+Effective throughput: 68204.38 bytes/second
+Total data sent (including retransmissions): 12506084 bytes
+Flow utilization rate: 0.8385
+
+1000ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 154.33 seconds
+Effective throughput: 67942.23 bytes/second
+Total data sent (including retransmissions): 12290390 bytes
+Flow utilization rate: 0.8532
+
+SR delay upload 10MB
+
+延迟0ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 125.79 seconds
+Effective throughput: 83357.16 bytes/second
+Total data sent (including retransmissions): 10670080 bytes
+Flow utilization rate: 0.9827
+
+100ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 100.08 seconds
+Effective throughput: 104772.32 bytes/second
+Total data sent (including retransmissions): 19888654 bytes
+Flow utilization rate: 0.5272
+
+200ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 93.26 seconds
+Effective throughput: 112433.50 bytes/second
+Total data sent (including retransmissions): 18992534 bytes
+Flow utilization rate: 0.5521
+
+300ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 87.74 seconds
+Effective throughput: 119503.89 bytes/second
+Total data sent (including retransmissions): 21326614 bytes
+Flow utilization rate: 0.4917
+
+400ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 83.09 seconds
+Effective throughput: 126196.13 bytes/second
+Total data sent (including retransmissions): 21086954 bytes
+Flow utilization rate: 0.4973
+
+500ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 88.02 seconds
+Effective throughput: 119131.72 bytes/second
+Total data sent (including retransmissions): 20184582 bytes
+Flow utilization rate: 0.5195
+
+600ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 84.02 seconds
+Effective throughput: 124803.71 bytes/second
+Total data sent (including retransmissions): 21554812 bytes
+Flow utilization rate: 0.4865
+
+700ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 87.34 seconds
+Effective throughput: 120055.73 bytes/second
+Total data sent (including retransmissions): 21688188 bytes
+Flow utilization rate: 0.4835
+
+800ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 75.32 seconds
+Effective throughput: 139223.00 bytes/second
+Total data sent (including retransmissions): 20101222 bytes
+Flow utilization rate: 0.5216
+
+900ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 72.06 seconds
+Effective throughput: 145507.57 bytes/second
+Total data sent (including retransmissions): 19933460 bytes
+Flow utilization rate: 0.5260
+
+1000ms
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 69.60 seconds
+Effective throughput: 150663.92 bytes/second
+Total data sent (including retransmissions): 19071726 bytes
+Flow utilization rate: 0.5498
+
+
+
+
+
+**---真实---**
+
+**测试7,8**
+
+GBN loss  download
+
+1MB
+
+--- Performance Metrics ---
+File size: 1048576 bytes
+Transfer time: 23.15 seconds
+Effective throughput: 45292.66 bytes/second
+Total data sent (including retransmissions): 2079832 bytes
+Flow utilization rate: 0.5042
+
+5MB
+
+--- Performance Metrics ---
+File size: 5242880 bytes
+Transfer time: 28.05 seconds
+Effective throughput: 186942.06 bytes/second
+Total data sent (including retransmissions): 10006326 bytes
+Flow utilization rate: 0.5240
+
+10MB
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 138.02 seconds
+Effective throughput: 75970.39 bytes/second
+Total data sent (including retransmissions): 41579968 bytes
+Flow utilization rate: 0.2522
+
+20MB
+
+--- Performance Metrics ---
+File size: 20971520 bytes
+Transfer time: 232.82 seconds
+Effective throughput: 90076.92 bytes/second
+Total data sent (including retransmissions): 64518556 bytes
+Flow utilization rate: 0.3250
+
+30MB
+
+--- Performance Metrics ---
+File size: 31457280 bytes
+Transfer time: 30.90 seconds
+Effective throughput: 1018134.98 bytes/second
+Total data sent (including retransmissions): 34747574 bytes
+Flow utilization rate: 0.9053
+
+40MB
+
+--- Performance Metrics ---
+File size: 41943040 bytes
+Transfer time: 32.44 seconds
+Effective throughput: 1292786.34 bytes/second
+Total data sent (including retransmissions): 42769932 bytes
+Flow utilization rate: 0.9807
+
+50MB
+
+--- Performance Metrics ---
+File size: 52428800 bytes
+Transfer time: 35.00 seconds
+Effective throughput: 1498107.71 bytes/second
+Total data sent (including retransmissions): 53354568 bytes
+Flow utilization rate: 0.9826
+
+60MB
+
+--- Performance Metrics ---
+File size: 62914560 bytes
+Transfer time: 38.97 seconds
+Effective throughput: 1614545.83 bytes/second
+Total data sent (including retransmissions): 64020480 bytes
+Flow utilization rate: 0.9827
+
+70MB
+
+--- Performance Metrics ---
+File size: 73400320 bytes
+Transfer time: 494.50 seconds
+Effective throughput: 148434.17 bytes/second
+Total data sent (including retransmissions): 216279604 bytes
+Flow utilization rate: 0.3394
+
+80MB
+
+--- Performance Metrics ---
+File size: 83886080 bytes
+Transfer time: 625.58 seconds
+Effective throughput: 134092.29 bytes/second
+Total data sent (including retransmissions): 213736082 bytes
+Flow utilization rate: 0.3925
+
+90MB
+
+--- Performance Metrics ---
+File size: 94371840 bytes
+Transfer time: 1380.73 seconds
+Effective throughput: 68349.29 bytes/second
+Total data sent (including retransmissions): 383324708 bytes
+Flow utilization rate: 0.2462
+
+100MB
+
+--- Performance Metrics ---
+File size: 104857600 bytes
+Transfer time: 1084.66 seconds
+Effective throughput: 96673.65 bytes/second
+Total data sent (including retransmissions): 452559356 bytes
+Flow utilization rate: 0.2317
+
+
+
+SR loss upload
+
+1MB
+
+--- Performance Metrics ---
+File size: 1048576 bytes
+Transfer time: 5.95 seconds
+Effective throughput: 176302.28 bytes/second
+Total data sent (including retransmissions): 1600512 bytes
+Flow utilization rate: 0.6552
+
+5MB
+
+--- Performance Metrics ---
+File size: 5242880 bytes
+Transfer time: 23.81 seconds
+Effective throughput: 220205.38 bytes/second
+Total data sent (including retransmissions): 8325580 bytes
+Flow utilization rate: 0.6297
+
+10MB
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 49.02 seconds
+Effective throughput: 213925.86 bytes/second
+Total data sent (including retransmissions): 15766502 bytes
+Flow utilization rate: 0.6651
+
+20MB
+
+--- Performance Metrics ---
+File size: 20971520 bytes
+Transfer time: 119.54 seconds
+Effective throughput: 175436.90 bytes/second
+Total data sent (including retransmissions): 28623740 bytes
+Flow utilization rate: 0.7327
+
+30MB
+
+--- Performance Metrics ---
+File size: 31457280 bytes
+Transfer time: 141.65 seconds
+Effective throughput: 222075.49 bytes/second
+Total data sent (including retransmissions): 47303674 bytes
+Flow utilization rate: 0.6650
+
+40MB
+
+--- Performance Metrics ---
+File size: 41943040 bytes
+Transfer time: 244.50 seconds
+Effective throughput: 171549.46 bytes/second
+Total data sent (including retransmissions): 54992592 bytes
+Flow utilization rate: 0.7627
+
+50MB
+
+--- Performance Metrics ---
+File size: 52428800 bytes
+Transfer time: 292.80 seconds
+Effective throughput: 179057.93 bytes/second
+Total data sent (including retransmissions): 78380282 bytes
+Flow utilization rate: 0.6689
+
+60MB
+
+--- Performance Metrics ---
+File size: 62914560 bytes
+Transfer time: 280.70 seconds
+Effective throughput: 224135.60 bytes/second
+Total data sent (including retransmissions): 96221406 bytes
+Flow utilization rate: 0.6539
+
+70MB
+
+--- Performance Metrics ---
+File size: 73400320 bytes
+Transfer time: 330.49 seconds
+Effective throughput: 222093.68 bytes/second
+Total data sent (including retransmissions): 111854532 bytes
+Flow utilization rate: 0.6562
+
+80MB
+
+--- Performance Metrics ---
+File size: 83886080 bytes
+Transfer time: 570.64 seconds
+Effective throughput: 147004.61 bytes/second
+Total data sent (including retransmissions): 111042814 bytes
+Flow utilization rate: 0.7554
+
+90MB
+
+--- Performance Metrics ---
+File size: 94371840 bytes
+Transfer time: 419.67 seconds
+Effective throughput: 224872.55 bytes/second
+Total data sent (including retransmissions): 143535500 bytes
+Flow utilization rate: 0.6575
+
+100MB
+
+--- Performance Metrics ---
+File size: 104857600 bytes
+Transfer time: 448.80 seconds
+Effective throughput: 233641.95 bytes/second
+Total data sent (including retransmissions): 158014090 bytes
+Flow utilization rate: 0.6636
+
+
+
+**测试9,10**
+
+SR loss download
+
+1MB
+
+--- Performance Metrics ---
+File size: 1048576 bytes
+Transfer time: 4.31 seconds
+Effective throughput: 243191.49 bytes/second
+Total data sent (including retransmissions): 1440044 bytes
+Flow utilization rate: 0.7282
+
+5MB
+
+--- Performance Metrics ---
+File size: 5242880 bytes
+Transfer time: 22.46 seconds
+Effective throughput: 233452.75 bytes/second
+Total data sent (including retransmissions): 6452064 bytes
+Flow utilization rate: 0.8126
+
+10MB
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 36.10 seconds
+Effective throughput: 290493.52 bytes/second
+Total data sent (including retransmissions): 13814836 bytes
+Flow utilization rate: 0.7590
+
+20MB
+
+--- Performance Metrics ---
+File size: 20971520 bytes
+Transfer time: 41.94 seconds
+Effective throughput: 499979.25 bytes/second
+Total data sent (including retransmissions): 32090474 bytes
+Flow utilization rate: 0.6535
+
+30MB
+
+--- Performance Metrics ---
+File size: 31457280 bytes
+Transfer time: 52.84 seconds
+Effective throughput: 595318.19 bytes/second
+Total data sent (including retransmissions): 50699552 bytes
+Flow utilization rate: 0.6205
+
+40MB
+
+--- Performance Metrics ---
+File size: 41943040 bytes
+Transfer time: 67.19 seconds
+Effective throughput: 624252.76 bytes/second
+Total data sent (including retransmissions): 65325064 bytes
+Flow utilization rate: 0.6421
+
+50MB
+
+--- Performance Metrics ---
+File size: 52428800 bytes
+Transfer time: 86.36 seconds
+Effective throughput: 607111.81 bytes/second
+Total data sent (including retransmissions): 80424686 bytes
+Flow utilization rate: 0.6519
+
+60MB
+
+--- Performance Metrics ---
+File size: 62914560 bytes
+Transfer time: 444.95 seconds
+Effective throughput: 141398.17 bytes/second
+Total data sent (including retransmissions): 79836998 bytes
+Flow utilization rate: 0.7880
+
+70MB
+
+--- Performance Metrics ---
+File size: 73400320 bytes
+Transfer time: 391.11 seconds
+Effective throughput: 187670.01 bytes/second
+Total data sent (including retransmissions): 98546108 bytes
+Flow utilization rate: 0.7448
+
+80MB
+
+--- Performance Metrics ---
+File size: 83886080 bytes
+Transfer time: 177.37 seconds
+Effective throughput: 472949.33 bytes/second
+Total data sent (including retransmissions): 126843702 bytes
+Flow utilization rate: 0.6613
+
+90MB
+
+--- Performance Metrics ---
+File size: 94371840 bytes
+Transfer time: 149.51 seconds
+Effective throughput: 631227.28 bytes/second
+Total data sent (including retransmissions): 145353790 bytes
+Flow utilization rate: 0.6493
+
+100MB
+
+--- Performance Metrics ---
+File size: 104857600 bytes
+Transfer time: 680.26 seconds
+Effective throughput: 154143.50 bytes/second
+Total data sent (including retransmissions): 139318526 bytes
+Flow utilization rate: 0.7526
+
+SR delay download 
+
+1MB
+
+--- Performance Metrics ---
+File size: 1048576 bytes
+Transfer time: 1.70 seconds
+Effective throughput: 615433.32 bytes/second
+Total data sent (including retransmissions): 1233728 bytes
+Flow utilization rate: 0.8499
+
+5MB
+--- Performance Metrics ---
+File size: 5242880 bytes
+Transfer time: 4.01 seconds
+Effective throughput: 1308071.38 bytes/second
+Total data sent (including retransmissions): 11146274 bytes
+Flow utilization rate: 0.4704
+
+10MB
+
+--- Performance Metrics ---
+File size: 10485760 bytes
+Transfer time: 8.82 seconds
+Effective throughput: 1188904.46 bytes/second
+Total data sent (including retransmissions): 25571722 bytes
+Flow utilization rate: 0.4101
+
+20MB
+
+--- Performance Metrics ---
+File size: 20971520 bytes
+Transfer time: 17.35 seconds
+Effective throughput: 1209026.42 bytes/second
+Total data sent (including retransmissions): 60703794 bytes
+Flow utilization rate: 0.3455
+
+30MB
+
+--- Performance Metrics ---
+File size: 31457280 bytes
+Transfer time: 28.05 seconds
+Effective throughput: 1121636.81 bytes/second
+Total data sent (including retransmissions): 93995694 bytes
+Flow utilization rate: 0.3347
+
+40MB
+
+--- Performance Metrics ---
+File size: 41943040 bytes
+Transfer time: 39.66 seconds
+Effective throughput: 1057458.28 bytes/second
+Total data sent (including retransmissions): 116632102 bytes
+Flow utilization rate: 0.3596
+
+50MB
+
+--- Performance Metrics ---
+File size: 52428800 bytes
+Transfer time: 53.01 seconds
+Effective throughput: 989074.37 bytes/second
+Total data sent (including retransmissions): 201567606 bytes
+Flow utilization rate: 0.2601
+
+60MB
+
+--- Performance Metrics ---
+File size: 62914560 bytes
+Transfer time: 71.15 seconds
+Effective throughput: 884309.85 bytes/second
+Total data sent (including retransmissions): 199157460 bytes
+Flow utilization rate: 0.3159
+
+70MB
+
+--- Performance Metrics ---
+File size: 73400320 bytes
+Transfer time: 61.63 seconds
+Effective throughput: 1190893.55 bytes/second
+Total data sent (including retransmissions): 237148780 bytes
+Flow utilization rate: 0.3095
+
+80MB
+
+--- Performance Metrics ---
+File size: 83886080 bytes
+Transfer time: 115.80 seconds
+Effective throughput: 724409.77 bytes/second
+Total data sent (including retransmissions): 254753370 bytes
+Flow utilization rate: 0.3293
+
+90MB
+
+--- Performance Metrics ---
+File size: 94371840 bytes
+Transfer time: 92.10 seconds
+Effective throughput: 1024704.05 bytes/second
+Total data sent (including retransmissions): 301087984 bytes
+Flow utilization rate: 0.3134
+
+100MB
+
+--- Performance Metrics ---
+File size: 104857600 bytes
+Transfer time: 101.59 seconds
+Effective throughput: 1032157.87 bytes/second
+Total data sent (including retransmissions): 339432542 bytes
+Flow utilization rate: 0.3089
+
