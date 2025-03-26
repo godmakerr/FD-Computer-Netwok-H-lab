@@ -1,0 +1,52 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.4 port 5001 connected with 10.0.0.2 port 40506
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.5 sec  74.9 KBytes  1.23 Mbits/sec
+[  4]  0.5- 1.0 sec  0.00 Bytes  0.00 bits/sec
+[  4]  1.0- 1.5 sec  0.00 Bytes  0.00 bits/sec
+[  4]  1.5- 2.0 sec  0.00 Bytes  0.00 bits/sec
+[  4]  2.0- 2.5 sec  0.00 Bytes  0.00 bits/sec
+[  4]  2.5- 3.0 sec  0.00 Bytes  0.00 bits/sec
+[  4]  3.0- 3.5 sec  0.00 Bytes  0.00 bits/sec
+[  4]  3.5- 4.0 sec  0.00 Bytes  0.00 bits/sec
+[  4]  4.0- 4.5 sec  0.00 Bytes  0.00 bits/sec
+[  4]  4.5- 5.0 sec  0.00 Bytes  0.00 bits/sec
+[  4]  5.0- 5.5 sec  0.00 Bytes  0.00 bits/sec
+[  4]  5.5- 6.0 sec  0.00 Bytes  0.00 bits/sec
+[  4]  6.0- 6.5 sec  0.00 Bytes  0.00 bits/sec
+[  4]  6.5- 7.0 sec  0.00 Bytes  0.00 bits/sec
+[  4]  7.0- 7.5 sec  0.00 Bytes  0.00 bits/sec
+[  4]  7.5- 8.0 sec  0.00 Bytes  0.00 bits/sec
+[  4]  8.0- 8.5 sec  0.00 Bytes  0.00 bits/sec
+[  4]  8.5- 9.0 sec  0.00 Bytes  0.00 bits/sec
+[  4]  9.0- 9.5 sec  0.00 Bytes  0.00 bits/sec
+[  4]  9.5-10.0 sec  0.00 Bytes  0.00 bits/sec
+[  4] 10.0-10.5 sec  0.00 Bytes  0.00 bits/sec
+[  4] 10.5-11.0 sec  0.00 Bytes  0.00 bits/sec
+[  4] 11.0-11.5 sec  0.00 Bytes  0.00 bits/sec
+[  4] 11.5-12.0 sec  24.0 KBytes   394 Kbits/sec
+[  4] 12.0-12.5 sec  18.4 KBytes   301 Kbits/sec
+[  4] 12.5-13.0 sec  0.00 Bytes  0.00 bits/sec
+[  4] 13.0-13.5 sec  0.00 Bytes  0.00 bits/sec
+[  4] 13.5-14.0 sec  0.00 Bytes  0.00 bits/sec
+[  4] 14.0-14.5 sec  0.00 Bytes  0.00 bits/sec
+[  4] 14.5-15.0 sec  0.00 Bytes  0.00 bits/sec
+[  4] 15.0-15.5 sec  0.00 Bytes  0.00 bits/sec
+[  4] 15.5-16.0 sec  0.00 Bytes  0.00 bits/sec
+[  4] 16.0-16.5 sec  7.07 KBytes   116 Kbits/sec
+[  4] 16.5-17.0 sec  33.9 KBytes   556 Kbits/sec
+[  4] 17.0-17.5 sec  0.00 Bytes  0.00 bits/sec
+[  4] 17.5-18.0 sec  15.6 KBytes   255 Kbits/sec
+[  4] 18.0-18.5 sec  0.00 Bytes  0.00 bits/sec
+[  4] 18.5-19.0 sec  0.00 Bytes  0.00 bits/sec
+[  4] 19.0-19.5 sec  0.00 Bytes  0.00 bits/sec
+[  4] 19.5-20.0 sec  0.00 Bytes  0.00 bits/sec
+[  4] 20.0-20.5 sec  0.00 Bytes  0.00 bits/sec
+[  4] 20.5-21.0 sec  0.00 Bytes  0.00 bits/sec
+[  4] 21.0-21.5 sec  0.00 Bytes  0.00 bits/sec
+[  4] 21.5-22.0 sec  0.00 Bytes  0.00 bits/sec
+[  4] 22.0-22.5 sec  0.00 Bytes  0.00 bits/sec
+[  4] 22.5-23.0 sec  0.00 Bytes  0.00 bits/sec
